@@ -8,7 +8,7 @@ public class Movement : MonoBehaviour
 {
     Rigidbody2D rb;
     Vector3 movement;
-    float speed = 3.0f;
+    [SerializeField] float speed = 3.0f;
 
     void Awake()
     {
