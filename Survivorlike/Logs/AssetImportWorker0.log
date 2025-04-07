@@ -1,0 +1,198 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/carrie/Documents/github/game1-survivorlike/Survivorlike
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64210
+Successfully changed project path to: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike
+/Users/carrie/Documents/github/game1-survivorlike/Survivorlike
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 54.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Assets
+GfxDevice: creating device client; threaded=0
+2025-04-07 00:08:16.491 Unity[36752:1131464] (null) preferred device: Apple M1 (high power)
+2025-04-07 00:08:16.491 Unity[36752:1131464] Metal devices available: 1
+2025-04-07 00:08:16.491 Unity[36752:1131464] 0: Apple M1 (high power)
+2025-04-07 00:08:16.491 Unity[36752:1131464] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56752
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001119 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 33.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.879 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000989 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 34.29 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.586 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.43 seconds
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1806 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.0 MB.
+System memory in use after: 70.1 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2253.
+Total: 3.026583 ms (FindLiveObjects: 0.284750 ms CreateObjectMapping: 0.039875 ms MarkObjects: 2.626208 ms  DeleteObjects: 0.074834 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/grass03.png
+  artifactKey: Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/grass03.png using Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd15f0fbbf92c1a5cf91606438611571a') in 0.847582 seconds
+  Import took 0.851759 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003061 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.506 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 151.6 MB.
+System memory in use after: 151.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2263.
+Total: 1.416208 ms (FindLiveObjects: 0.148791 ms CreateObjectMapping: 0.037417 ms MarkObjects: 1.213666 ms  DeleteObjects: 0.015375 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 266.216466 seconds.
+  path: Assets/grass03.png
+  artifactKey: Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/grass03.png using Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf164e991d90844388162cfeaef07391') in 0.204051 seconds
+  Import took 0.224701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.844480 seconds.
+  path: Assets/grass03.png
+  artifactKey: Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/grass03.png using Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f714147be3096794aa24f1e90d6bd0') in 0.039569 seconds
+  Import took 0.048547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 71.386236 seconds.
+  path: Assets/grass03.png
+  artifactKey: Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/grass03.png using Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98874bf2bafdf84a6e371793e36d68a4') in 0.034770 seconds
+  Import took 0.044748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.942724 seconds.
+  path: Assets/grass03.png
+  artifactKey: Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/grass03.png using Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8638dc3b482107dfa28a8638c79619ff') in 0.012289 seconds
+  Import took 0.015385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001490 seconds.
+  path: Assets/grass03.png
+  artifactKey: Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/grass03.png using Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8638dc3b482107dfa28a8638c79619ff') in 0.011036 seconds
+  Import took 0.014050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.246384 seconds.
+  path: Assets/grass03.png
+  artifactKey: Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/grass03.png using Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b003140751aec27bd811cda9769f67f1') in 0.034709 seconds
+  Import took 0.045249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.598886 seconds.
+  path: Assets/grass03.png
+  artifactKey: Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/grass03.png using Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f3ce5d19c5e20d9161ae553cad3ecad') in 0.021370 seconds
+  Import took 0.033902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.859195 seconds.
+  path: Assets/grass03.png
+  artifactKey: Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/grass03.png using Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87609ee6961df3613fa9841fbcb86dcf') in 0.050929 seconds
+  Import took 0.060210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 116.899801 seconds.
+  path: Assets/grass03.png
+  artifactKey: Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/grass03.png using Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b120aec71a14b900150d3d03a0c757d6') in 0.039668 seconds
+  Import took 0.061730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.746004 seconds.
+  path: Assets/grass03.png
+  artifactKey: Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/grass03.png using Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '630b3fafcb1266dca70d2eb4c12f177a') in 0.011165 seconds
+  Import took 0.014309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.286356 seconds.
+  path: Assets/grass03.png
+  artifactKey: Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/grass03.png using Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b643093a932f1e080e192d576f1f3802') in 0.011013 seconds
+  Import took 0.014152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.119086 seconds.
+  path: Assets/grass03.png
+  artifactKey: Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/grass03.png using Guid(b39cdc56840024571bf3ab9f46f82e55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c087b2c043ab8ef12814632e4798b2c1') in 0.010752 seconds
+  Import took 0.015546 seconds .
+
