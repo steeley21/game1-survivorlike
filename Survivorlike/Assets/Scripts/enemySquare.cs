@@ -7,7 +7,7 @@ public class enemySquare : MonoBehaviour
 
     // we want the enemy to chase the player around
 
-    [SerializeField] Transform targetDestination;
+    /*[SerializeField] Transform targetDestination;
     [SerializeField] float speed;
 
     Rigidbody2D rgdbd2d;
@@ -20,8 +20,8 @@ public class enemySquare : MonoBehaviour
     // calculates direction of the player
     private void FixedUpdate()
     {
-        Vector3 direction = (targetDestination.position - transform.position).normalized;
-        rgdbd2d.velocity = direction * speed;
+        // Vector3 direction = (targetDestination.position - transform.position).normalized;
+        // rgdbd2d.velocity = direction * speed;
     }
-
+*/
 }
