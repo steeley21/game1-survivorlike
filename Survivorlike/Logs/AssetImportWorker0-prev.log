@@ -1,10 +1,6 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
-<<<<<<< HEAD
-OS: 'Windows 10 Home; OS build 26100.3775; Version 2009; 64bit' Language: 'en' Physical Memory: 16068 MB
-=======
 OS: 'Windows 10 Home; OS build 19045.5608; Version 2009; 64bit' Language: 'en' Physical Memory: 7778 MB
->>>>>>> Zach's-Branch
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -19,19 +15,11 @@ C:/Users/turbo/UnityFolder/game1-survivorlike/Survivorlike
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-<<<<<<< HEAD
-61861
-Successfully changed project path to: C:/Users/steel/Unity Projects/CSCD475-GameDev2/actual-game/game1-survivorlike/Survivorlike
-C:/Users/steel/Unity Projects/CSCD475-GameDev2/actual-game/game1-survivorlike/Survivorlike
-Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 31.89 ms, found 1 plugins.
-=======
-61947
+62685
 Successfully changed project path to: C:/Users/turbo/UnityFolder/game1-survivorlike/Survivorlike
 C:/Users/turbo/UnityFolder/game1-survivorlike/Survivorlike
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 163.12 ms, found 1 plugins.
->>>>>>> Zach's-Branch
+Refreshing native plugins compatible for Editor in 117.85 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.0f1 (c7b5465681fb)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
@@ -44,265 +32,124 @@ Direct3D:
     VRAM:     3889 MB
     Driver:   31.0.101.2130
 Initialize mono
-<<<<<<< HEAD
-Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56472
-Begin MonoManager ReloadAssembly
-Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001652 seconds.
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 31.01 ms, found 1 plugins.
-=======
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56820
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56136
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007232 seconds.
+Registered in 0.007279 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 128.21 ms, found 1 plugins.
->>>>>>> Zach's-Branch
+Refreshing native plugins compatible for Editor in 165.93 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-<<<<<<< HEAD
-- Completed reload, in  1.168 seconds
+- Completed reload, in  3.467 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.000904 seconds.
+Registered in 0.003384 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-000002047F80A440 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002047EE91180 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002047F23AB40 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002047EFB6A70 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000202C6BC94F0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000202C6BDC700 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000202C5CE0080 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000202C5D1BFD0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002047FD59C40 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002047FBD7230 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000202C6598020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000202C5CF3490 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002047FD24E20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000202C5CF3490 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002047FD59C40 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002047FD59C40 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002047FD643B0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002047FD59C40 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002047FBDF240 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000202C6098010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002047F4671B0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002047FD24E20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002047F6D2660 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002047F3FFDB0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002047F303030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000202C5EA0010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000202C60C5C20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002047F35A020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002047F852450 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000202C690FE20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002047F23AB40 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000202C65C5A30 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 30.74 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 192.40 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.053 seconds
+- Completed reload, in  4.348 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.23 seconds
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1809 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 85.2 MB.
-System memory in use after: 85.3 MB.
+Unloading 1810 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.6 MB.
+System memory in use after: 84.7 MB.
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2256.
-Total: 2.049900 ms (FindLiveObjects: 0.156600 ms CreateObjectMapping: 0.041300 ms MarkObjects: 1.789100 ms  DeleteObjects: 0.061500 ms)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2257.
+Total: 5.696400 ms (FindLiveObjects: 0.550800 ms CreateObjectMapping: 0.166000 ms MarkObjects: 4.781300 ms  DeleteObjects: 0.191000 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scripts/EnemiesManager.cs
-  artifactKey: Guid(ee574b4771626bb4ca2d91d02c16a41f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/EnemiesManager.cs using Guid(ee574b4771626bb4ca2d91d02c16a41f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '952c3f68a5b433f855164a69229d4bfc') in 0.051924 seconds
-  Import took 0.057036 seconds .
+  path: Assets/Scripts/PlayerStats.cs
+  artifactKey: Guid(24f95aed3808c624d86fc5beaeffc609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerStats.cs using Guid(24f95aed3808c624d86fc5beaeffc609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51e50fb35ba54bbd9546e888f1f02a63') in 0.139010 seconds
+  Import took 0.149732 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 27.813157 seconds.
-  path: Assets/Sprites
-  artifactKey: Guid(d615348ec1f282640a1929861f4ebd35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites using Guid(d615348ec1f282640a1929861f4ebd35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cda82a69db5834b815e4c29c66b2def') in 0.003406 seconds
-  Import took 0.007369 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000846 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.940 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 84.8 MB.
-System memory in use after: 84.9 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2261.
-Total: 2.341100 ms (FindLiveObjects: 0.159200 ms CreateObjectMapping: 0.042900 ms MarkObjects: 2.108300 ms  DeleteObjects: 0.029100 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 81.571379 seconds.
-  path: Assets/Enemy.cs
-  artifactKey: Guid(98942c2729c0c3946b84fbe67a70a382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enemy.cs using Guid(98942c2729c0c3946b84fbe67a70a382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc2b12e0713b6e4342f92f2f5ab26f69') in 0.011724 seconds
-  Import took 0.016843 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002075 seconds.
-  path: Assets/Enemy.cs
-  artifactKey: Guid(98942c2729c0c3946b84fbe67a70a382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enemy.cs using Guid(98942c2729c0c3946b84fbe67a70a382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc2b12e0713b6e4342f92f2f5ab26f69') in 0.006883 seconds
-  Import took 0.013452 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 10.118945 seconds.
-  path: Assets/Enemy.cs
-  artifactKey: Guid(98942c2729c0c3946b84fbe67a70a382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Enemy.cs using Guid(98942c2729c0c3946b84fbe67a70a382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8977793c327c5a712726a5e7d99f05b1') in 0.004542 seconds
-  Import took 0.008458 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000965 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 2.07 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.939 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 84.8 MB.
-System memory in use after: 84.9 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2265.
-Total: 3.644100 ms (FindLiveObjects: 0.200300 ms CreateObjectMapping: 0.060600 ms MarkObjects: 3.347800 ms  DeleteObjects: 0.033600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000878 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.657 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 84.9 MB.
-System memory in use after: 85.0 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2269.
-Total: 1.761500 ms (FindLiveObjects: 0.140800 ms CreateObjectMapping: 0.044400 ms MarkObjects: 1.555300 ms  DeleteObjects: 0.019900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000888 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.656 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.26 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 84.9 MB.
-System memory in use after: 85.0 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2273.
-Total: 1.962700 ms (FindLiveObjects: 0.139600 ms CreateObjectMapping: 0.044300 ms MarkObjects: 1.757800 ms  DeleteObjects: 0.019600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000906 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.649 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 84.9 MB.
-System memory in use after: 85.0 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2277.
-Total: 1.751500 ms (FindLiveObjects: 0.144700 ms CreateObjectMapping: 0.036700 ms MarkObjects: 1.543100 ms  DeleteObjects: 0.025400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000878 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.645 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 84.9 MB.
-System memory in use after: 85.0 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2281.
-Total: 1.881800 ms (FindLiveObjects: 0.151800 ms CreateObjectMapping: 0.039300 ms MarkObjects: 1.666300 ms  DeleteObjects: 0.022900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001234 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.769 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1800 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 84.9 MB.
-System memory in use after: 85.0 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2285.
-Total: 2.018500 ms (FindLiveObjects: 0.152700 ms CreateObjectMapping: 0.099000 ms MarkObjects: 1.743800 ms  DeleteObjects: 0.021400 ms)
+  Time since last request: 3.539911 seconds.
+  path: Assets/Scripts/Movement.cs
+  artifactKey: Guid(2456a68639ce93041a9f2122a439b292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Movement.cs using Guid(2456a68639ce93041a9f2122a439b292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1076a3661d46a62e3f12a30daf1ddf07') in 0.034881 seconds
+  Import took 0.045959 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
-=======
-- Completed reload, in  6.638 seconds
-Platform modules already initialized, skipping
-Registering precompiled user dll's ...
-Registered in 0.004017 seconds.
->>>>>>> Zach's-Branch

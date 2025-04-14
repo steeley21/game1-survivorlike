@@ -27,7 +27,7 @@ public class EnemyStats : MonoBehaviour
             enemy = GameObject.Find("ENEMIES");
             em = enemy.GetComponent<EnemiesManager>();
             this.HP = 0;
-            em.Destroy();
+            //em.Destroy();
         }
         else
         {
