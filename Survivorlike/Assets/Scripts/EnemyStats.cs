@@ -17,11 +17,17 @@ public class EnemyStats : MonoBehaviour
     public void setDamage(float damage) {  Damage = damage; }
     public void setSpeed(float speed) {  Speed = speed; }
 
+    GameObject enemy;
+    EnemiesManager em;
+
     public void TakeDamage(float damageTaken)
     {
         if(this.HP - damageTaken < 0)
         {
+            enemy = GameObject.Find("ENEMIES");
+            em = enemy.GetComponent<EnemiesManager>();
             this.HP = 0;
+            em.Destroy();
         }
         else
         {
