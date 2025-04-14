@@ -8,7 +8,17 @@ public class Movement : MonoBehaviour
 {
     Rigidbody2D rb;
     Vector3 movement;
-    [SerializeField] float speed = 3.0f;
+    [SerializeField] float speed;
+
+    GameObject player;
+    PlayerStats ps;
+
+    public void UpdateSpeed()
+    {
+        player = GameObject.Find("Player");
+        ps = player.GetComponent<PlayerStats>();
+        speed = ps.getSpeed();
+    }
 
     void Awake()
     {
@@ -18,7 +28,9 @@ public class Movement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        player = GameObject.Find("Player");
+        ps = player.GetComponent<PlayerStats>();
+        speed = ps.getSpeed();
     }
 
     // Update is called once per frame
