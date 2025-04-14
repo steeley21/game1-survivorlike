@@ -7,6 +7,7 @@ public class EnemiesManager : MonoBehaviour
     [SerializeField] GameObject enemy;
     [SerializeField] Vector2 spawnArea;
     [SerializeField] float spawnTimer;
+    GameObject newEnemy;
     float timer;
 
 
@@ -31,8 +32,15 @@ public class EnemiesManager : MonoBehaviour
         );
 
         // assigns a position to the new enemy
-        GameObject newEnemy = Instantiate(enemy);
+        newEnemy = Instantiate(enemy);
         newEnemy.transform.position = position;
+
+    }
+
+    // destroy clones
+    void Destroy()
+    {
+        DestroyImmediate(newEnemy);
     }
 
 
