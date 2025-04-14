@@ -17,6 +17,18 @@ public class EnemyStats : MonoBehaviour
     public void setDamage(float damage) {  Damage = damage; }
     public void setSpeed(float speed) {  Speed = speed; }
 
+    public void TakeDamage(float damageTaken)
+    {
+        if(this.HP - damageTaken < 0)
+        {
+            this.HP = 0;
+        }
+        else
+        {
+            this.HP -= damageTaken;
+        }
+    }
+
     // Start is called before the first frame update
     void Start()
     {
