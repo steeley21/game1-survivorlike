@@ -7,15 +7,21 @@ public class EnemiesManager : MonoBehaviour
     [SerializeField] GameObject enemy;
     [SerializeField] Vector2 spawnArea;
     [SerializeField] float spawnTimer;
+    [SerializeField] Transform player;
     GameObject newEnemy;
     float timer;
 
+
+    private void Start()
+    {
+        timer = spawnTimer;
+    }
 
     // if timer is less than 0, spawn enemy
     private void Update()
     {
         timer -= Time.deltaTime;
-        if (timer < 0f)
+        if (timer <= 0f)
         {
             SpawnEnemy();
             timer = spawnTimer;
@@ -25,15 +31,13 @@ public class EnemiesManager : MonoBehaviour
     // generate spawn position based on spawn area
     void SpawnEnemy()
     {
-        Vector3 position = new Vector3(
-            UnityEngine.Random.Range(-spawnArea.x, spawnArea.x),
-            UnityEngine.Random.Range(-spawnArea.y, spawnArea.y),
-            0f
-        );
+        Vector3 center = player.position;
+        float x = Random.Range(center.x - spawnArea.x, center.x + spawnArea.x);
+        float y = Random.Range(center.y - spawnArea.y, center.y + spawnArea.y);
+        Vector3 spawnPos = new Vector3(x, y, 0f);
 
-        // assigns a position to the new enemy
         newEnemy = Instantiate(enemy);
-        newEnemy.transform.position = position;
+        newEnemy.transform.position = spawnPos;
 
     }
 
