@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(Rigidbody2D), typeof(Animator), typeof(SpriteRenderer))]
 public class Enemy : MonoBehaviour
 {
 
@@ -11,19 +12,31 @@ public class Enemy : MonoBehaviour
     GameObject targetGameobject;
     [SerializeField] float speed;
 
-    Rigidbody2D rgdbd2d;
+    Rigidbody2D rb;
+    Animator animator;
+    SpriteRenderer sr;
 
     private void Awake()
     {
-        rgdbd2d = GetComponent<Rigidbody2D>();
+        rb = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
+        sr = GetComponent<SpriteRenderer>();
+
         targetGameobject = targetDestination.gameObject;
     }
 
-    // calculates direction of the player
     private void FixedUpdate()
     {
+        // chase player
         Vector3 direction = (targetDestination.position - transform.position).normalized;
-        rgdbd2d.velocity = direction * speed;
+        rb.velocity = direction * speed;
+
+        // flip sprite if moving left
+        if (rb.velocity.x != 0f)
+            sr.flipX = (rb.velocity.x < 0f);
+
+        // 3) Tell Animator how fast we’re going
+        animator.SetFloat("Speed", rb.velocity.magnitude);
     }
 
     // handle collisions - will attack player
