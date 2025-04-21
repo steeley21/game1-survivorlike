@@ -571,13 +571,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 933996519}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 24f95aed3808c624d86fc5beaeffc609, type: 3}
+  m_Script: {fileID: 11500000, guid: 9d995260140cce34794eb8a9cc56e33a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   MaxHP: 100
   HP: 100
   Damage: 1
-  Speed: 10
+  Speed: 3
 --- !u!95 &933996526
 Animator:
   serializedVersion: 3
