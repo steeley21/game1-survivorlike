@@ -147,3 +147,11 @@ System memory in use after: 309.5 MB.
 Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2309.
 Total: 2.893125 ms (FindLiveObjects: 0.309959 ms CreateObjectMapping: 0.087667 ms MarkObjects: 2.461833 ms  DeleteObjects: 0.031958 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 479.156929 seconds.
+  path: Assets/Scripts/PlayerStats.cs
+  artifactKey: Guid(24f95aed3808c624d86fc5beaeffc609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerStats.cs using Guid(24f95aed3808c624d86fc5beaeffc609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0f8d76c0702d120a9670e79b5eaa272') in 1.857208 seconds
+  Import took 1.918324 seconds .
+
