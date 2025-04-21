@@ -1,37 +1,42 @@
 Using pre-set license
-Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 26100.3775; Version 2009; 64bit' Language: 'en' Physical Memory: 16068 MB
-BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Editor\Unity.exe
+/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MacOS/Unity
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/steel/Unity Projects/CSCD475-GameDev2/actual-game/game1-survivorlike/Survivorlike
+/Users/carrie/Documents/github/game1-survivorlike/Survivorlike
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
+<<<<<<< HEAD
 58080
 Successfully changed project path to: C:/Users/steel/Unity Projects/CSCD475-GameDev2/actual-game/game1-survivorlike/Survivorlike
 C:/Users/steel/Unity Projects/CSCD475-GameDev2/actual-game/game1-survivorlike/Survivorlike
 Using Asset Import Pipeline V2.
 Refreshing native plugins compatible for Editor in 51.34 ms, found 1 plugins.
+=======
+55084
+Successfully changed project path to: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike
+/Users/carrie/Documents/github/game1-survivorlike/Survivorlike
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 56.46 ms, found 2 plugins.
+>>>>>>> carrie-working-2
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.0f1 (c7b5465681fb)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/steel/Unity Projects/CSCD475-GameDev2/actual-game/game1-survivorlike/Survivorlike/Assets
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Assets
 GfxDevice: creating device client; threaded=0
-Direct3D:
-    Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x46a6)
-    Vendor:   
-    VRAM:     8034 MB
-    Driver:   31.0.101.4032
+2025-04-21 11:42:44.243 Unity[71705:5186286] (null) preferred device: Apple M1 (high power)
+2025-04-21 11:42:44.243 Unity[71705:5186286] Metal devices available: 1
+2025-04-21 11:42:44.243 Unity[71705:5186286] 0: Apple M1 (high power)
+2025-04-21 11:42:44.243 Unity[71705:5186286] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
 Initialize mono
+<<<<<<< HEAD
 Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
@@ -42,11 +47,24 @@ Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEng
 Registered in 0.002530 seconds.
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 50.98 ms, found 1 plugins.
+=======
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56705
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001312 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 57.74 ms, found 2 plugins.
+>>>>>>> carrie-working-2
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Completed reload, in  1.476 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
@@ -54,11 +72,21 @@ Registered in 0.002076 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 66.56 ms, found 1 plugins.
+=======
+- Completed reload, in  2.661 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001255 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 70.89 ms, found 2 plugins.
+>>>>>>> carrie-working-2
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Completed reload, in  1.282 seconds
 Platform modules already initialized, skipping
 ========================================================================
@@ -98,23 +126,105 @@ System memory in use after: 48.6 MB.
 
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2263.
 Total: 3.106700 ms (FindLiveObjects: 0.480900 ms CreateObjectMapping: 0.186900 ms MarkObjects: 2.413800 ms  DeleteObjects: 0.023300 ms)
+=======
+- Completed reload, in  2.499 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.37 seconds
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1812 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 67.7 MB.
+System memory in use after: 67.8 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2259.
+Total: 3.595292 ms (FindLiveObjects: 0.217708 ms CreateObjectMapping: 0.058167 ms MarkObjects: 3.204250 ms  DeleteObjects: 0.109583 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/New Material.mat
+  artifactKey: Guid(ef4682454a64745aba4b6138ac499a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material.mat using Guid(ef4682454a64745aba4b6138ac499a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a6175df00ee1f1846168998789f1b8c') in 1.250111 seconds
+  Import took 1.259411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1141.614467 seconds.
+  path: Assets/Untitled330_20250421125733.png
+  artifactKey: Guid(16a4d57ed0c6d47998c7f66fc1bdad08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Untitled330_20250421125733.png using Guid(16a4d57ed0c6d47998c7f66fc1bdad08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6afb5ccfbae75faec7833c4496f77b2b') in 1.256258 seconds
+  Import took 1.370017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.915911 seconds.
+  path: Assets/YarnBall.png
+  artifactKey: Guid(16a4d57ed0c6d47998c7f66fc1bdad08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/YarnBall.png using Guid(16a4d57ed0c6d47998c7f66fc1bdad08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33db6ac10dce644a094329d54db7ec60') in 0.057573 seconds
+  Import took 0.071190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4229.459115 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e58c32c74971579209c983feef23e212') in 0.300775 seconds
+  Import took 0.371731 seconds .
+>>>>>>> carrie-working-2
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 Registered in 0.001588 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 1.10 ms, found 1 plugins.
+=======
+Registered in 0.002252 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
+>>>>>>> carrie-working-2
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Completed reload, in  0.963 seconds
+=======
+- Completed reload, in  2.549 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.44 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 307.6 MB.
+System memory in use after: 307.7 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2305.
+Total: 2.845959 ms (FindLiveObjects: 0.520750 ms CreateObjectMapping: 0.064833 ms MarkObjects: 2.238458 ms  DeleteObjects: 0.020792 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001516 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.017 seconds
+>>>>>>> carrie-working-2
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+<<<<<<< HEAD
 Unloading 1806 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 84.9 MB.
 System memory in use after: 85.0 MB.
@@ -144,5 +254,20 @@ System memory in use after: 85.0 MB.
 
 Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2271.
 Total: 4.140300 ms (FindLiveObjects: 0.585200 ms CreateObjectMapping: 0.212400 ms MarkObjects: 3.298000 ms  DeleteObjects: 0.042000 ms)
+=======
+Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 309.4 MB.
+System memory in use after: 309.5 MB.
 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2309.
+Total: 2.893125 ms (FindLiveObjects: 0.309959 ms CreateObjectMapping: 0.087667 ms MarkObjects: 2.461833 ms  DeleteObjects: 0.031958 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 479.156929 seconds.
+  path: Assets/Scripts/PlayerStats.cs
+  artifactKey: Guid(24f95aed3808c624d86fc5beaeffc609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerStats.cs using Guid(24f95aed3808c624d86fc5beaeffc609) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0f8d76c0702d120a9670e79b5eaa272') in 1.857208 seconds
+  Import took 1.918324 seconds .
+>>>>>>> carrie-working-2
+
