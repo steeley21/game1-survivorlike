@@ -7,8 +7,10 @@ using UnityEngine;
 public class Movement : MonoBehaviour
 {
     Rigidbody2D rb;
-    Vector3 movement;
+    public Vector3 movement;
     [SerializeField] float speed = 3.0f;
+    public float lastX;
+    public float lastY;
 
     void Awake()
     {
@@ -27,6 +29,14 @@ public class Movement : MonoBehaviour
         movement.x = Input.GetAxisRaw("Horizontal");
         movement.y = Input.GetAxisRaw("Vertical");
 
+        if(movement.x != 0)
+        {
+            lastX = movement.x;
+        }
+        if(movement.y != 0)
+        {
+            lastY = movement.y;
+        }
         movement *= speed;
 
         rb.velocity = movement;
