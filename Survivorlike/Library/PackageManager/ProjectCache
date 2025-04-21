@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638802637383129196
+      ticks: 638808684800412766
     m_Hash: 2187297002
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -985,6 +985,7 @@ m_PackageAssets:
         - 3.0.31
         - 3.0.34
         - 3.0.35
+        - 3.0.36
         compatible:
         - 1.0.2
         - 1.0.6
@@ -1031,6 +1032,7 @@ m_PackageAssets:
         - 3.0.31
         - 3.0.34
         - 3.0.35
+        - 3.0.36
         verified: 2.0.7
       dependencies:
       - name: com.unity.test-framework
