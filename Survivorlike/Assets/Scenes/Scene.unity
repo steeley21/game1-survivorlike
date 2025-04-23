@@ -574,6 +574,7 @@ GameObject:
   - component: {fileID: 933996520}
   - component: {fileID: 933996524}
   - component: {fileID: 933996525}
+  - component: {fileID: 933996526}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -593,7 +594,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2456a68639ce93041a9f2122a439b292, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0
+  speed: 3.85
+  lastX: 0
+  lastY: 0
 --- !u!50 &933996521
 Rigidbody2D:
   serializedVersion: 4
@@ -716,13 +719,31 @@ MonoBehaviour:
   m_GameObject: {fileID: 933996519}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 24f95aed3808c624d86fc5beaeffc609, type: 3}
+  m_Script: {fileID: 11500000, guid: 2456a68639ce93041a9f2122a439b292, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MaxHP: 100
-  HP: 100
-  Damage: 1
-  Speed: 10
+  speed: 12.76
+  lastX: 0
+  lastY: 0
+--- !u!95 &933996526
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 933996519}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &974302966
 GameObject:
   m_ObjectHideFlags: 0
@@ -736,6 +757,7 @@ GameObject:
   - component: {fileID: 974302969}
   - component: {fileID: 974302968}
   - component: {fileID: 974302967}
+  - component: {fileID: 974302972}
   m_Layer: 0
   m_Name: rat-black
   m_TagString: Untagged
@@ -869,6 +891,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &974302972
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 974302966}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1013645032
 GameObject:
   m_ObjectHideFlags: 0
@@ -30007,6 +30048,7 @@ MonoBehaviour:
   enemy: {fileID: 974302966}
   spawnArea: {x: 10, y: 10}
   spawnTimer: 3
+  player: {fileID: 0}
 --- !u!4 &2140323916
 Transform:
   m_ObjectHideFlags: 0
