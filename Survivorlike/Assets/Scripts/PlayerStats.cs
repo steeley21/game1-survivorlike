@@ -8,6 +8,7 @@ public class PlayerStats : MonoBehaviour
     [SerializeField] float HP = 100.0f;
     [SerializeField] float Damage = 1.0f;
     [SerializeField] float Speed = 3.0f;
+    [SerializeField] StatusBar hpBar;
 
 
     public float getHp() { return HP; }
@@ -20,19 +21,33 @@ public class PlayerStats : MonoBehaviour
     public void setDamage(float damage) { Damage = damage; }
     public void setSpeed(float speed) { Speed = speed; }
 
+    private bool isDead;
+
     GameObject player;
     Movement movement;
 
     public void TakeDamage(float damageTaken)
     {
+        
+        if(isDead == true)
+        {
+            return;
+        }
+
         if(HP - damageTaken < 0)
         {
             this.HP = 0;
+        }
+        if (this.HP <= 0){  // display gameover screen on death
+            GetComponent<PlayerGameOver>().GameOver();
+            isDead = true;
         }
         else
         {
             this.HP -= damageTaken;
         }
+
+        hpBar.SetState(HP, MaxHP);  // update HPBar for player
     }
 
     public void HealDamage(float healing)
