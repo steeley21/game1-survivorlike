@@ -24,10 +24,8 @@ public class EnemyStats : MonoBehaviour
     {
         if(this.HP - damageTaken < 0)
         {
-            enemy = GameObject.Find("ENEMIES");
-            em = enemy.GetComponent<EnemiesManager>();
-            this.HP = 0;
-            //em.Destroy();
+            this.HP -= damageTaken;
+            Destroy(gameObject);
         }
         else
         {
