@@ -15,11 +15,11 @@ C:/Users/turbo/UnityFolder/game1-survivorlike/Survivorlike
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-65474
+58185
 Successfully changed project path to: C:/Users/turbo/UnityFolder/game1-survivorlike/Survivorlike
 C:/Users/turbo/UnityFolder/game1-survivorlike/Survivorlike
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 115.44 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 88.73 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.0f1 (c7b5465681fb)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
@@ -35,667 +35,583 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56456
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56420
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.006314 seconds.
+Registered in 0.004419 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 128.96 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 136.45 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.020 seconds
+- Completed reload, in  2.365 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003614 seconds.
+Registered in 0.002452 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-000001837BD46030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file data-000002767B7A9010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C5719C0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file data-000002767E60D340 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE9F3C0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-000002767AFBCFD0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE34010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file data-000002767AFDD1B0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C01C4010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+Symbol file data-000002767B7CDC20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F818050 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file data-000002767AB8F030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\PsdPlugin.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F818050 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file data-000002767EA20010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F164620 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-000002767B4CF5B0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C081810 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-000002767AB8F030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C081810 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file data-000002767AE93FC0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837EA6D020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file data-000002767B05D440 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837EA9AA30 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-000002767B08AE50 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE9F3C0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file data-000002767E644390 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C081810 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file data-000002767B08AE50 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C036C010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file data-000002767B4CF5B0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837ED2C430 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file data-000002767B27DE20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE04020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file data-000002767A9A6910 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C089820 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file data-000002767B4CF5B0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C01D7220 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file data-000002767EA33420 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Rider.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837EAD2C30 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file data-000002767AFDFEE0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F2CE020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file data-000002767B0A0430 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE9F3C0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file data-000002767E644390 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837EC11020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+Symbol file data-000002767AFDFEE0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F85B730 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file data-000002767AD75020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BBE8020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file data-000002767AD93020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837EC11020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file data-000002767DE11020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837ED40E40 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-000002767AB8F030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BEF9030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file data-000002767DC4C010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C57A210 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file data-000002767E6D4E00 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F0CCE30 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file data-000002767AF83010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE9F3C0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file data-000002767AFBCFD0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837ED40E40 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file data-000002767ABE5E20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 127.73 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 87.91 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.881 seconds
+- Completed reload, in  1.894 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.13 seconds
-Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.19 seconds
+Refreshing native plugins compatible for Editor in 0.79 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1816 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 85.0 MB.
-System memory in use after: 85.1 MB.
+Unloading 1870 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.0 MB.
+System memory in use after: 88.1 MB.
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2263.
-Total: 6.506600 ms (FindLiveObjects: 0.749100 ms CreateObjectMapping: 0.386500 ms MarkObjects: 5.127400 ms  DeleteObjects: 0.238000 ms)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2319.
+Total: 5.393000 ms (FindLiveObjects: 0.630700 ms CreateObjectMapping: 0.193700 ms MarkObjects: 4.322500 ms  DeleteObjects: 0.243200 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scripts/LazerWeapon.cs
-  artifactKey: Guid(2cca921af7332a544b1a767f54dca09d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/LazerWeapon.cs using Guid(2cca921af7332a544b1a767f54dca09d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d530049615791bfa16be71cd0d31ba8') in 0.187132 seconds
-  Import took 0.195471 seconds .
+  path: Assets/Scripts/EnemyStats.cs
+  artifactKey: Guid(2b08687932c624f4aad635663214a7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemyStats.cs using Guid(2b08687932c624f4aad635663214a7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '450a2a94176441e5692fdde5ed1af4b7') in 0.098295 seconds
+  Import took 0.105145 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 4.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 49.9 MB.
+System memory in use after: 50.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2319.
+Total: 2.816500 ms (FindLiveObjects: 0.373300 ms CreateObjectMapping: 0.130000 ms MarkObjects: 2.280200 ms  DeleteObjects: 0.030400 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003586 seconds.
+Registered in 0.008319 seconds.
 Begin MonoManager ReloadAssembly
-Symbol file data-000001837C705010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file data-00000274C028B030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BDBE3A0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file data-000002767AD170C0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C5BC010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file data-000002767AF6F020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0B30040 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file data-000002767AB95D40 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C176D020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+Symbol file data-000002767AF8B260 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C176D020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file data-000002767E6D6860 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\PsdPlugin.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C176D020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file data-000002767AF8B260 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE7B010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file data-000002767E6D6860 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C176D020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file data-000002767E6D6860 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C176D020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file data-000002767AF8B260 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0272010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file data-00000274C028B030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C40DA20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file data-000002767D904010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C13DDB40 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file data-000002767B4496F0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F818050 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file data-000002767AF8B260 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE7B010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file data-000002767D7B7090 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F818050 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file data-000002767D7B7090 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181D3A7C7F0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file data-000002767E2FE430 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE7B010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file data-000002767F742480 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F164620 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file data-000002767F742480 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Rider.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C420520 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file data-000002767AFDFEE0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C048D010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file data-000002767B0A0430 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C13DDB40 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file data-000002767AF6F020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C1382060 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+Symbol file data-000002767AFDFEE0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F85B730 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file data-000002767E705B70 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C76BC20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file data-000002767ADB2FB0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837EC65020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file data-000002767DE11020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F5ED620 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file data-000002767AF8B260 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0B30040 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file data-000002767ECFB030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C57A210 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file data-000002767AFFDD60 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE7B010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file data-000002767DBDD220 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE9F3C0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file data-00000274C02B8A40 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C40DA20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file data-00000274C075B280 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.11 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.077 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1806 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 84.6 MB.
-System memory in use after: 84.7 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2267.
-Total: 5.331800 ms (FindLiveObjects: 0.389400 ms CreateObjectMapping: 0.136800 ms MarkObjects: 4.753300 ms  DeleteObjects: 0.048500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 380.528887 seconds.
-  path: Assets/Scripts/LazerWeapon.cs
-  artifactKey: Guid(2cca921af7332a544b1a767f54dca09d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/LazerWeapon.cs using Guid(2cca921af7332a544b1a767f54dca09d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8421c34ff02b41a3d084bb09040d409f') in 0.014276 seconds
-  Import took 0.026390 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004908 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000001837C705010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BDBF610 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C182F830 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C059CA0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C40DA20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C1312010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C40DA20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837ED47540 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C1312010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C40DA20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C174D010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C40DA20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C182F830 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C40DA20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C191C90 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C191C90 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C1571430 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C191C90 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C02C3740 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837ED25040 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C118010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C182F830 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0FA6020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F85B730 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0FCE6C0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C3AB930 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C95C030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C059CA0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C579900 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C95C030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C182F830 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C2B4030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.16 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.551 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.78 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1806 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 84.6 MB.
-System memory in use after: 84.7 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2271.
-Total: 6.873700 ms (FindLiveObjects: 0.639400 ms CreateObjectMapping: 0.278500 ms MarkObjects: 5.841400 ms  DeleteObjects: 0.108200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003042 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000001837ECB9020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C182FC30 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C60BBE0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE34010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C05C1020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0615010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C05C1020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837ED47540 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0615010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C05C1020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C174D010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C40DA20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C60BBE0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C05C1020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE7B010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C1356020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE8DFB0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE7B010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C602500 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C1816020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F212020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C60BBE0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F8B74C0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C1396A70 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0FCE6C0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0B30040 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C95C030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0FBD030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C57A040 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE7B010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C60BBE0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C05C1020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.00 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.670 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1806 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 84.6 MB.
-System memory in use after: 84.7 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2275.
-Total: 8.079300 ms (FindLiveObjects: 0.701800 ms CreateObjectMapping: 0.167800 ms MarkObjects: 7.047600 ms  DeleteObjects: 0.156300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003946 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000001837C89E020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C12CFA70 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837CA98A00 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE34010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C191C90 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0615010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C191C90 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837ED47540 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0615010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C191C90 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C174D010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F4A2630 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F667E20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0B62010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE7B010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0615010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F8CE4D0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE7B010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C6E4030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C08E0030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C3AB930 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F667E20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C1382060 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C01D8A20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0FCE6C0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837EE09020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F5ED620 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181D3A97B90 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C579E70 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE7B010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F5F5630 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C191C90 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.25 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.685 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.12 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1806 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 84.7 MB.
-System memory in use after: 84.8 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2279.
-Total: 5.172600 ms (FindLiveObjects: 0.434300 ms CreateObjectMapping: 0.178200 ms MarkObjects: 4.503100 ms  DeleteObjects: 0.052900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 239.009406 seconds.
-  path: Assets/Scripts/DisableAfterTime.cs
-  artifactKey: Guid(ff35bb40fd9e36048af0f4207b458a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/DisableAfterTime.cs using Guid(ff35bb40fd9e36048af0f4207b458a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1950cb8434381863ed04732c5096fa16') in 0.034362 seconds
-  Import took 0.044716 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.053978 seconds.
-  path: Assets/Scripts/DisableAfterTime.cs
-  artifactKey: Guid(ff35bb40fd9e36048af0f4207b458a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/DisableAfterTime.cs using Guid(ff35bb40fd9e36048af0f4207b458a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1950cb8434381863ed04732c5096fa16') in 0.010252 seconds
-  Import took 0.018664 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 83.260854 seconds.
-  path: Assets/Scripts/LazerWeapon.cs
-  artifactKey: Guid(2cca921af7332a544b1a767f54dca09d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/LazerWeapon.cs using Guid(2cca921af7332a544b1a767f54dca09d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1823df36635c9fa692f488876e87ec05') in 0.009655 seconds
-  Import took 0.020587 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003070 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000001837F3AA010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C316BA0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C05C5060 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837CA9B400 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0B62010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C434540 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0D37070 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837ED47540 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0615010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0B62010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C174D010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F4A2630 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C05C5060 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0D37070 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE7B010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C0474B0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BF1B720 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE7B010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C6E4030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C18D6010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C3AB930 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C05C5060 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C18D6010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C05C5060 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F5F7640 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C1BDB20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C95C030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181D3A97B90 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C57A210 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE7B010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C05C5060 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837EAC1020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.98 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.857 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.05 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1806 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 84.7 MB.
-System memory in use after: 84.8 MB.
-
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2283.
-Total: 5.272300 ms (FindLiveObjects: 0.407600 ms CreateObjectMapping: 0.122100 ms MarkObjects: 4.684300 ms  DeleteObjects: 0.054200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004270 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file data-000001837C705010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F668D30 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C128E030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BDBB020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F935010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0563030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\PsdPlugin.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C191C90 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837EBED020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0563030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F935010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C174D010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F4A2630 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C128E030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C191C90 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE7B010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C312030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C164BD50 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C1BDB020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837ED47540 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C18D6010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.UI.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C3AB930 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C128E030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C0FA6020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C128E030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BFBC290 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181C1AB1010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C1F3020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-00000181D3A97B90 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C579AD0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837BE7B010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837F5F5630 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-000001837C1CF010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
-Symbol file LoadedFromMemory is not a mono symbol file
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.24 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  3.593 seconds
-Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 1.07 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1806 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 84.7 MB.
-System memory in use after: 84.8 MB.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.831 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.93 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1847 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.5 MB.
+System memory in use after: 86.7 MB.
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2287.
-Total: 6.208900 ms (FindLiveObjects: 0.902600 ms CreateObjectMapping: 0.138300 ms MarkObjects: 5.092300 ms  DeleteObjects: 0.072100 ms)
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2323.
+Total: 4.237600 ms (FindLiveObjects: 0.356100 ms CreateObjectMapping: 0.312200 ms MarkObjects: 3.496500 ms  DeleteObjects: 0.069100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 268.091117 seconds.
+  path: Assets/Scenes/SceneKateCopy.unity
+  artifactKey: Guid(5e940d73e501b7249ae190a83020c282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SceneKateCopy.unity using Guid(5e940d73e501b7249ae190a83020c282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2aa2a134eb3287afb3c6c19e2ddb3cd') in 0.097894 seconds
+  Import took 0.113141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.722079 seconds.
+  path: Assets/Scenes/Zach-changes.unity
+  artifactKey: Guid(7a11861f7df116e41874dc64bc97f4f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Zach-changes.unity using Guid(7a11861f7df116e41874dc64bc97f4f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd697e3c901687b6beed70f822e6b500d') in 0.039165 seconds
+  Import took 0.046880 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004043 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002767D790080 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767D91BB80 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767E60C080 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767DC4C010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AFAF7C0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AFAF7C0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AFAF7C0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767ADB3590 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AFAF7C0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AFAF7C0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767D91C030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767F34D010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AE5B9C0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AFAF7C0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767B605030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274C0A5F030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767DC4C010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767ADB3590 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767F7E7020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767F6AF030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274C0234010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767E60C080 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767F731070 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274D24C9840 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767E0FC630 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767DE11020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AF8B260 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767DC4C010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AFFD620 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AFB81D0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AE5B9C0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767D7C00B0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.684 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1847 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2327.
+Total: 5.590800 ms (FindLiveObjects: 0.653700 ms CreateObjectMapping: 0.235700 ms MarkObjects: 4.624000 ms  DeleteObjects: 0.073200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002041 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000274C0000080 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767E4FAC20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767E60C080 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767F528010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767E6FC790 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767E6FC790 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AF8B260 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767F115020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767E6FC790 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767E6FC790 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767F4FB050 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274C04A4040 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AFABF50 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AF8B260 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767B605030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767F69B030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274C04B5450 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767B605030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767DFF5010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767F6AF030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767B0A0430 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767E60C080 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767F6AF030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274D24C9840 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767F692690 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767DE11020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AF8B260 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274C0493020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AFFDB90 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767B605030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AFABF50 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AF8B260 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.011 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1847 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2331.
+Total: 3.307900 ms (FindLiveObjects: 0.307400 ms CreateObjectMapping: 0.089200 ms MarkObjects: 2.868500 ms  DeleteObjects: 0.040500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.626653 seconds.
+  path: Assets/Scenes/Zach-changes.unity
+  artifactKey: Guid(7a11861f7df116e41874dc64bc97f4f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Zach-changes.unity using Guid(7a11861f7df116e41874dc64bc97f4f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8c894b32376ad470f871b34844b98c3') in 0.033832 seconds
+  Import took 0.041049 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001738 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000274C0000080 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AFACE60 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274D24BE8B0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AB98A50 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AF8B260 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AD96830 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AF8B260 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767E488010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AD96830 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AF8B260 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274C0C15030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274C04A4040 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274C0490C20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AF8B260 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767B605030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767F69B030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767ADAE590 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767B605030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274C037F040 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767F6AF030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767B0A0430 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274C0490C20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767F6AF030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767E705B70 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767E75E020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274C0BBB020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AF19010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AB98A50 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AFFDB90 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767B605030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767D887A20 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AF19010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.137 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1847 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2335.
+Total: 5.056500 ms (FindLiveObjects: 0.438100 ms CreateObjectMapping: 0.246600 ms MarkObjects: 4.309300 ms  DeleteObjects: 0.059100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003962 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000002767F4F3040 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274C00852E0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767E60C080 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767ADDAA90 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767B81B030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AD96830 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\PsdPlugin.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767B81B030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274C0821010 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767D96A020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767B81B030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274C0C15030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AE1DFB0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AD17220 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767B81B030 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274D24BA1D0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Psdimporter.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767F023020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767ADAE590 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274D24BA1D0 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767ADB3590 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274C075B280 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767B0A0430 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767E60C080 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274C075B280 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000274D24C9840 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Animation.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767E75E020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767EFB3020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767D96A020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767ADDAA90 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767AFFDD60 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767B096650 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767F6D3180 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000002767D96A020 doesn't match image C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.987 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1847 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.6 MB.
+System memory in use after: 86.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2339.
+Total: 4.334100 ms (FindLiveObjects: 0.515400 ms CreateObjectMapping: 0.321100 ms MarkObjects: 3.441000 ms  DeleteObjects: 0.052200 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
