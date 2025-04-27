@@ -4,10 +4,11 @@ using UnityEngine;
 
 public class EnemyStats : MonoBehaviour
 {
-
-    [SerializeField] float HP = 1.0f;
+    [SerializeField] float MaxHP = 10.0f;
+    [SerializeField] float HP = 10.0f;
     [SerializeField] float Damage = 1.0f;
     [SerializeField] float Speed = 1.0f;
+    [SerializeField] StatusBar hpBar;
 
     public float getHp() { return HP; }
     public float getDamage() { return Damage; }
@@ -33,6 +34,7 @@ public class EnemyStats : MonoBehaviour
         {
             this.HP -= damageTaken;
         }
+        hpBar.SetState(HP, MaxHP);  // update HPBar for enemy
     }
 
     // Start is called before the first frame update
