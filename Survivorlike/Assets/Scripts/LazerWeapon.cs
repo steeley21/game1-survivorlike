@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class LazerWeapon : MonoBehaviour
 {
-    float timeToAttack = 4f;
+    float timeToAttack = 3f;
     float timer;
     
     [SerializeField] GameObject LazerAttackLeft;
@@ -50,6 +50,18 @@ public class LazerWeapon : MonoBehaviour
         {
             Attack();
         }
+        /*
+        if (movement.lastX > 0f && LazerAttackRight.activeSelf)
+        {
+            Collider2D[] colliders = Physics2D.OverlapBoxAll(LazerAttackRight.transform.position, lazerAttackRightSize, 0f);
+            ApplyDamage(colliders);
+        }
+        else if(movement.lastX < 0f && LazerAttackLeft.activeSelf)
+        {
+            Collider2D[] colliders = Physics2D.OverlapBoxAll(LazerAttackLeft.transform.position, lazerAttackLeftSize, 0f);
+            ApplyDamage(colliders);
+        }
+        */
     }
 
     private void Attack()
