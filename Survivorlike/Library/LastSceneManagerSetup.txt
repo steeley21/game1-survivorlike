@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/SceneKateCopy.unity
+=======
+- path: Assets/Scenes/Scene.unity
+>>>>>>> carrie-working-3
   isLoaded: 1
   isActive: 1
   isSubScene: 0

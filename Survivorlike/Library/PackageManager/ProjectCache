@@ -1,19 +1,66 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
+<<<<<<< HEAD
     m_FilePath: C:/Users/turbo/UnityFolder/game1-survivorlike/Survivorlike/Packages/manifest.json
+=======
+    m_FilePath: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Packages/manifest.json
+>>>>>>> carrie-working-3
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 638792290717482639
     m_Hash: 2286989724
   m_LockFileStatus:
     m_FilePath: C:/Users/turbo/UnityFolder/game1-survivorlike/Survivorlike/Packages/packages-lock.json
+=======
+      ticks: 638792290390000000
+    m_Hash: 2493206812
+  m_LockFileStatus:
+    m_FilePath: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Packages/packages-lock.json
+>>>>>>> carrie-working-3
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 638813925136144349
+=======
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+      ticks: 638808725920000000
+=======
+      ticks: 638810374180000000
+>>>>>>> Stashed changes
+=======
+      ticks: 638810374180000000
+>>>>>>> Stashed changes
+=======
+      ticks: 638810374180000000
+>>>>>>> Stashed changes
+=======
+      ticks: 638810374180000000
+>>>>>>> Stashed changes
+=======
+      ticks: 638810374180000000
+>>>>>>> Stashed changes
+=======
+      ticks: 638810374180000000
+>>>>>>> Stashed changes
+=======
+      ticks: 638810374180000000
+>>>>>>> Stashed changes
+=======
+      ticks: 638810374180000000
+>>>>>>> Stashed changes
+>>>>>>> carrie-working-3
     m_Hash: 2187297002
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -25,7 +72,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 5.0.4
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\PackageCache\com.unity.2d.animation@5.0.4
+=======
+      resolvedPath: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Library/PackageCache/com.unity.2d.animation@5.0.4
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
       displayName: 2D Animation
@@ -241,7 +292,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.0.1
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\PackageCache\com.unity.2d.pixel-perfect@4.0.1
+=======
+      resolvedPath: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Library/PackageCache/com.unity.2d.pixel-perfect@4.0.1
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.2d.pixel-perfect
       name: com.unity.2d.pixel-perfect
       displayName: 2D Pixel Perfect
@@ -319,7 +374,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.0.2
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\PackageCache\com.unity.2d.psdimporter@4.0.2
+=======
+      resolvedPath: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Library/PackageCache/com.unity.2d.psdimporter@4.0.2
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.2d.psdimporter
       name: com.unity.2d.psdimporter
       displayName: 2D PSD Importer
@@ -480,7 +539,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.2d.sprite
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.2d.sprite
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.2d.sprite
       name: com.unity.2d.sprite
       displayName: 2D Sprite
@@ -531,7 +594,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 5.1.1
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\PackageCache\com.unity.2d.spriteshape@5.1.1
+=======
+      resolvedPath: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Library/PackageCache/com.unity.2d.spriteshape@5.1.1
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.2d.spriteshape
       name: com.unity.2d.spriteshape
       displayName: 2D SpriteShape
@@ -713,7 +780,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.2d.tilemap
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.2d.tilemap
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.2d.tilemap
       name: com.unity.2d.tilemap
       displayName: 2D Tilemap Editor
@@ -763,7 +834,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\PackageCache\com.unity.collab-proxy@1.3.9
+=======
+      resolvedPath: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Library/PackageCache/com.unity.collab-proxy@1.3.9
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -926,7 +1001,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\PackageCache\com.unity.ide.rider@2.0.7
+=======
+      resolvedPath: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Library/PackageCache/com.unity.ide.rider@2.0.7
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -1075,7 +1154,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
+=======
+      resolvedPath: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Library/PackageCache/com.unity.ide.visualstudio@2.0.7
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -1182,7 +1265,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\PackageCache\com.unity.ide.vscode@1.2.3
+=======
+      resolvedPath: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Library/PackageCache/com.unity.ide.vscode@1.2.3
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -1255,7 +1342,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.22
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\PackageCache\com.unity.test-framework@1.1.22
+=======
+      resolvedPath: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Library/PackageCache/com.unity.test-framework@1.1.22
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -1396,7 +1487,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.1
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\PackageCache\com.unity.textmeshpro@3.0.1
+=======
+      resolvedPath: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Library/PackageCache/com.unity.textmeshpro@3.0.1
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1589,7 +1684,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.6
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\PackageCache\com.unity.timeline@1.4.6
+=======
+      resolvedPath: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Library/PackageCache/com.unity.timeline@1.4.6
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1788,7 +1887,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.ugui
       name: com.unity.ugui
       displayName: Unity UI
@@ -1851,7 +1954,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ai
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.ai
       name: com.unity.modules.ai
       displayName: AI
@@ -1899,7 +2006,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.androidjni
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.androidjni
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.androidjni
       name: com.unity.modules.androidjni
       displayName: Android JNI
@@ -1947,7 +2058,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.animation
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.animation
       name: com.unity.modules.animation
       displayName: Animation
@@ -1995,7 +2110,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.assetbundle
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.assetbundle
       name: com.unity.modules.assetbundle
       displayName: Asset Bundle
@@ -2043,7 +2162,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.audio
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.audio
       name: com.unity.modules.audio
       displayName: Audio
@@ -2091,7 +2214,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.cloth
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.cloth
       name: com.unity.modules.cloth
       displayName: Cloth
@@ -2143,7 +2270,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.director
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.director
       name: com.unity.modules.director
       displayName: Director
@@ -2199,7 +2330,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imageconversion
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.imageconversion
       name: com.unity.modules.imageconversion
       displayName: Image Conversion
@@ -2248,7 +2383,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.imgui
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.imgui
       name: com.unity.modules.imgui
       displayName: IMGUI
@@ -2296,7 +2435,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.jsonserialize
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.jsonserialize
       name: com.unity.modules.jsonserialize
       displayName: JSONSerialize
@@ -2344,7 +2487,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.particlesystem
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.particlesystem
       name: com.unity.modules.particlesystem
       displayName: Particle System
@@ -2392,7 +2539,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.physics
       name: com.unity.modules.physics
       displayName: Physics
@@ -2440,7 +2591,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.physics2d
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.physics2d
       name: com.unity.modules.physics2d
       displayName: Physics 2D
@@ -2488,7 +2643,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.screencapture
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.screencapture
       name: com.unity.modules.screencapture
       displayName: Screen Capture
@@ -2540,7 +2699,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrain
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.terrain
       name: com.unity.modules.terrain
       displayName: Terrain
@@ -2588,7 +2751,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.terrainphysics
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.terrainphysics
       name: com.unity.modules.terrainphysics
       displayName: Terrain Physics
@@ -2644,7 +2811,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.tilemap
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.tilemap
       name: com.unity.modules.tilemap
       displayName: Tilemap
@@ -2696,7 +2867,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.ui
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.ui
       name: com.unity.modules.ui
       displayName: UI
@@ -2744,7 +2919,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielements
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.uielements
       name: com.unity.modules.uielements
       displayName: UIElements
@@ -2808,7 +2987,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.umbra
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.umbra
       name: com.unity.modules.umbra
       displayName: Umbra
@@ -2856,7 +3039,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unityanalytics
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.unityanalytics
       name: com.unity.modules.unityanalytics
       displayName: Unity Analytics
@@ -2912,7 +3099,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequest
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.unitywebrequest
       name: com.unity.modules.unitywebrequest
       displayName: Unity Web Request
@@ -2960,7 +3151,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestassetbundle
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
       name: com.unity.modules.unitywebrequestassetbundle
       displayName: Unity Web Request Asset Bundle
@@ -3016,7 +3211,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestaudio
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.unitywebrequestaudio
       name: com.unity.modules.unitywebrequestaudio
       displayName: Unity Web Request Audio
@@ -3072,7 +3271,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequesttexture
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.unitywebrequesttexture
       name: com.unity.modules.unitywebrequesttexture
       displayName: Unity Web Request Texture
@@ -3128,7 +3331,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.unitywebrequestwww
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.unitywebrequestwww
       name: com.unity.modules.unitywebrequestwww
       displayName: Unity Web Request WWW
@@ -3200,7 +3407,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vehicles
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.vehicles
       name: com.unity.modules.vehicles
       displayName: Vehicles
@@ -3252,7 +3463,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.video
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.video
       name: com.unity.modules.video
       displayName: Video
@@ -3312,7 +3527,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.vr
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.vr
       name: com.unity.modules.vr
       displayName: VR
@@ -3374,7 +3593,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.wind
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.wind
       name: com.unity.modules.wind
       displayName: Wind
@@ -3422,7 +3645,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.xr
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.xr
       name: com.unity.modules.xr
       displayName: XR
@@ -3482,7 +3709,11 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.subsystems
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.subsystems
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.subsystems
       name: com.unity.modules.subsystems
       displayName: Subsystems
@@ -3534,7 +3765,11 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
+<<<<<<< HEAD
       resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielementsnative
+=======
+      resolvedPath: /Applications/Unity/Hub/Editor/2020.3.0f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.modules.uielementsnative
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.modules.uielementsnative
       name: com.unity.modules.uielementsnative
       displayName: UIElements Native
@@ -3593,7 +3828,11 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\PackageCache\com.unity.ext.nunit@1.0.6
+=======
+      resolvedPath: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Library/PackageCache/com.unity.ext.nunit@1.0.6
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3662,7 +3901,11 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.0.1
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\PackageCache\com.unity.2d.path@4.0.1
+=======
+      resolvedPath: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Library/PackageCache/com.unity.2d.path@4.0.1
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.2d.path
       name: com.unity.2d.path
       displayName: 2D Path
@@ -3670,39 +3913,18 @@ m_PackageAssets:
         name: 
         email: 
         url: 
-      category: 
-      type: asset
+      category: 2D
+      type: 
       description: "2D Path provides tooling to edit shapes (polygons and B\xE9zier
         splines) in EditorWindows and the SceneView."
       status: 4
       errors: []
       versions:
         all:
-        - 1.0.0-preview.1
-        - 1.0.0-preview.4
-        - 2.0.1
-        - 2.0.2
-        - 2.0.3
-        - 2.0.4
-        - 2.0.5
-        - 2.0.6
-        - 2.1.0
-        - 2.1.1
-        - 3.0.0
-        - 3.0.1
-        - 3.0.2
-        - 4.0.0
         - 4.0.1
-        - 4.0.2
-        - 5.0.0-pre.1
-        - 5.0.0-pre.2
-        - 5.0.0
-        - 5.0.1
-        - 5.0.2
         compatible:
         - 4.0.1
-        - 4.0.2
-        verified: 4.0.2
+        verified: 4.0.1
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -3716,11 +3938,11 @@ m_PackageAssets:
         isDefault: 1
         capabilities: 7
       hasRegistry: 1
-      hideInEditor: 0
+      hideInEditor: 1
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637328350450000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3733,7 +3955,11 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 4.0.3
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\PackageCache\com.unity.2d.common@4.0.3
+=======
+      resolvedPath: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Library/PackageCache/com.unity.2d.common@4.0.3
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.2d.common
       name: com.unity.2d.common
       displayName: 2D Common
@@ -3800,7 +4026,6 @@ m_PackageAssets:
         - 8.0.2
         - 8.0.3
         - 8.0.4
-        - 8.1.0
         - 9.0.0-pre.1
         - 9.0.0-pre.2
         - 9.0.0
@@ -3811,8 +4036,11 @@ m_PackageAssets:
         - 9.0.5
         - 9.0.6
         - 9.0.7
+<<<<<<< HEAD
         - 9.1.0
         - 11.0.0
+=======
+>>>>>>> carrie-working-3
         compatible:
         - 4.0.2
         - 4.0.3
@@ -3863,7 +4091,11 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.1.0
       source: 1
+<<<<<<< HEAD
       resolvedPath: C:\Users\turbo\UnityFolder\game1-survivorlike\Survivorlike\Library\PackageCache\com.unity.mathematics@1.1.0
+=======
+      resolvedPath: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Library/PackageCache/com.unity.mathematics@1.1.0
+>>>>>>> carrie-working-3
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
       displayName: Mathematics
@@ -3944,5 +4176,9 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
+<<<<<<< HEAD
 m_ProjectPath: C:/Users/turbo/UnityFolder/game1-survivorlike/Survivorlike/Packages
+=======
+m_ProjectPath: /Users/carrie/Documents/github/game1-survivorlike/Survivorlike/Packages
+>>>>>>> carrie-working-3
 m_EditorVersion: 2020.3.0f1 (c7b5465681fb)
