@@ -10,7 +10,12 @@ public class Enemy : MonoBehaviour
 
     [SerializeField] Transform targetDestination;
     GameObject targetGameobject;
+    GameObject player;
+    GameObject enemy;
     [SerializeField] float speed;
+    
+    PlayerStats ps;
+    EnemyStats es;
 
     Rigidbody2D rb;
     Animator animator;
@@ -52,6 +57,14 @@ public class Enemy : MonoBehaviour
     private void Attack()
     {
         Debug.Log("Attacking the player!");
+        player = GameObject.Find("Player");
+        ps = player.GetComponent<PlayerStats>();
+
+        enemy = GameObject.Find("rat");
+        es = enemy.GetComponent<EnemyStats>();
+        
+        ps.TakeDamage(es.getDamage());
+
     }
 
 }

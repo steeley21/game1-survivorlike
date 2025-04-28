@@ -347,7 +347,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e86ece322bc47240b97c44246750cc3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameScene: Scene
+  GameScene: SceneKateCopy
 --- !u!1 &321255933
 GameObject:
   m_ObjectHideFlags: 0
@@ -513,7 +513,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 787068197}
         m_TargetAssemblyTypeName: ExitButton, Assembly-CSharp
-        m_MethodName: QuitApplicaiton
+        m_MethodName: QuitApplication
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

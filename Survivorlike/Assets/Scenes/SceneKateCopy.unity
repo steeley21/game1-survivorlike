@@ -2043,8 +2043,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameOverPanel: {fileID: 332295626}
-  weapon: {fileID: 0}
-  finalTimeText: {fileID: 0}
+  weapon: {fileID: 746732394}
+  finalTimeText: {fileID: 584651879}
   gameTimer: {fileID: 0}
 --- !u!1 &1136540528
 GameObject:

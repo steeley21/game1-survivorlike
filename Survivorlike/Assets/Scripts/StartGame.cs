@@ -10,5 +10,6 @@ public class StartGame : MonoBehaviour
     public void StartGameplay()
     {
         SceneManager.LoadScene(GameScene); // name of scene game is run from
+        Time.timeScale = 1f;
     }
 }
