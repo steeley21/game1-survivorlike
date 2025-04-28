@@ -26,7 +26,7 @@ public class PlayerGameOver : MonoBehaviour
         gm = GameObject.Find("GameManager");
         gameTimer = gm.GetComponent<GameTimer>();
         
-        finalTimeText.text = "Time: " + gameTimer.ElapsedTime.ToString("F1") + "s";
+        finalTimeText.text = "Time: " + gameTimer.get().ToString("F1") + "s";
 
     }
 }

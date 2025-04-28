@@ -9,6 +9,8 @@ public class PlayerStats : MonoBehaviour
     [SerializeField] float Damage = 1.0f;
     [SerializeField] float Speed = 3.0f;
     [SerializeField] StatusBar hpBar;
+    [SerializeField] int currentXP = 0;
+    [SerializeField] int currentLvl = 1;
 
 
     public float getHp() { return HP; }
@@ -60,6 +62,7 @@ public class PlayerStats : MonoBehaviour
         {
             this.HP += healing;
         }
+        hpBar.SetState(HP, MaxHP);  // update HPBar for player
     }
 
     public void IncreaseSpeed(float increase)
@@ -75,16 +78,33 @@ public class PlayerStats : MonoBehaviour
         this.MaxHP += increase;
     }
 
-    public void IncresaseDamage(float increase)
+    public void IncreaseDamage(float increase)
     {
         this.Damage += increase;
     }
+
+    public void IncreaseXP(int increase)
+    {
+        this.currentXP += increase;
+        if (currentXP >= 100 * currentLvl)
+        {
+            currentLvl++;
+            GetComponent<PlayerLevelUp>().LevelUp();
+
+            Debug.Log("Player levels up");
+        }
+    }
+
+
     // Start is called before the first frame update
     void Start()
     {
+
         player = GameObject.Find("Player");
         movement = player.GetComponent<Movement>();
         movement.UpdateSpeed();
+        currentLvl = 1;
+
     }
 
     // Update is called once per frame

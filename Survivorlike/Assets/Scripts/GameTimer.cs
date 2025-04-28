@@ -6,7 +6,13 @@ using TMPro;
 public class GameTimer : MonoBehaviour
 {
     [SerializeField] private TextMeshProUGUI timerText;
-    public float ElapsedTime { get; private set; }
+
+    public float ElapsedTime;
+
+    public float get()
+    {
+        return ElapsedTime;
+    }
 
     void Update()
     {

@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class LazerWeapon : MonoBehaviour
 {
-    float timeToAttack = 3f;
+    float timeToAttack = 2f;
     float timer;
     
     [SerializeField] GameObject LazerAttackLeft;

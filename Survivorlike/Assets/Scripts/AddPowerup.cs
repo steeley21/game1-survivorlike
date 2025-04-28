@@ -7,6 +7,8 @@ public class AddPowerup : MonoBehaviour
     // Start is called before the first frame update
 
     public float healPoints = 20.0f;
+    public float speedIncrease = .5f;
+
     void Start()
     {
         
@@ -24,10 +26,14 @@ public class AddPowerup : MonoBehaviour
         {
             Debug.Log("Touched health powerup");
             other.GetComponent<PlayerStats>().HealDamage(healPoints);
-            Destroy(gameObject);
+            gameObject.SetActive(false);
+
+
         } else if(other.CompareTag("Player") && gameObject.tag == "SpeedPowerup")
         {
+
             Debug.Log("Touched speed powerup");
+            other.GetComponent<PlayerStats>().IncreaseSpeed(speedIncrease);
             Destroy(gameObject);
         }
     }
